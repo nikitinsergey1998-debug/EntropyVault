@@ -1,6 +1,6 @@
 # EntropyVault
 Auditable password generator using CSPRNG, HKDF-SHA512, scrypt hardening, entropy estimation and unbiased character selection.
-# LeafReader Secure Password Generator
+# EntropyVault Secure Password Generator
 
 ## 🇬🇧 English
 
